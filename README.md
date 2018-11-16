@@ -9,7 +9,7 @@ If other isn't specified, **all digital works** published via this GitHub repo, 
   * texts: articles, posts, essays
   * images: logos, scanned graphical works, schemes
 
-are created by Vlad Zamskoi and are allowed for re-distribution under the conditions of  
+are created by Vlad Zamskoi (@jvlad) and are allowed for re-distribution under the conditions of  
 **Creative Commons Attribution + Noncommercial + ShareAlike (BY-NC-SA)** licence.  
 
 Basically it means that anybody who have access to these works shouldn't be worried if they  
