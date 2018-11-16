@@ -19,4 +19,4 @@ Basically it means that anybody who have access to these works shouldn't be worr
 
 * copying, distributing, displaying and performing the work and make derivative works and remixes based on it only for non-commercial purposes  
 
-![Licence: Creative Commons Attribution + Noncommercial + ShareAlike](https://en.wikipedia.org/wiki/Creative_Commons_license#/media/File:Cc-by-nc-sa_icon.svg)
+![Licence: Creative Commons Attribution + Noncommercial + ShareAlike](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
