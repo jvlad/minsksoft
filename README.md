@@ -2,6 +2,11 @@
 
 # Minsk Software Freelancers Community
 
+
+## Logo
+Illustrator: Mikle Belanovich, freelancer (https://www.linkedin.com/in/intromike/) 
+
+
 ## Licence
 Legal, Copyright, Intellectual Property  
 
